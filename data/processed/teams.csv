@@ -1,0 +1,97 @@
+team_id,team_name,league,city_id,city_name,start_date,end_date,alt_names
+nba_bos,Boston Celtics,nba,bos,Boston,1900-01-01,,Celtics
+nba_lal,Los Angeles Lakers,nba,la,Los Angeles,1900-01-01,,Lakers
+nba_nyk,New York Knicks,nba,nyc,New York,1900-01-01,,Knicks
+mlb_ANA,Anaheim ANA,mlb,anaheim-ca,Anaheim,,,ANA
+mlb_ARI,Phoenix ARI,mlb,phoenix-az,Phoenix,,,ARI
+mlb_ATL,Atlanta ATL,mlb,atlanta-ga,Atlanta,,,ATL
+mlb_BAL,Baltimore BAL,mlb,baltimore-md,Baltimore,,,BAL
+mlb_BOS,Boston BOS,mlb,boston-ma,Boston,,,BOS
+mlb_CHA,Chicago CHA,mlb,chicago-il,Chicago,,,CHA
+mlb_CHN,Chicago CHN,mlb,chicago-il,Chicago,,,CHN
+mlb_CIN,Cincinnati CIN,mlb,cincinnati-oh,Cincinnati,,,CIN
+mlb_CLE,Cleveland CLE,mlb,cleveland-oh,Cleveland,,,CLE
+mlb_COL,Denver COL,mlb,denver-co,Denver,,,COL
+mlb_DET,Detroit DET,mlb,detroit-mi,Detroit,,,DET
+mlb_HOU,Houston HOU,mlb,houston-tx,Houston,,,HOU
+mlb_KCA,Kansas City KCA,mlb,kansas-city-mo,Kansas City,,,KCA
+mlb_LAN,Los Angeles LAN,mlb,los-angeles-ca,Los Angeles,,,LAN
+mlb_MIA,Miami MIA,mlb,miami-fl,Miami,,,MIA
+mlb_MIL,Milwaukee MIL,mlb,milwaukee-wi,Milwaukee,,,MIL
+mlb_MIN,Minneapolis MIN,mlb,minneapolis-mn,Minneapolis,,,MIN
+mlb_NYA,New York NYA,mlb,new-york-ny,New York,,,NYA
+mlb_NYN,New York NYN,mlb,new-york-ny,New York,,,NYN
+mlb_OAK,Oakland OAK,mlb,oakland-ca,Oakland,,,OAK
+mlb_PHI,Philadelphia PHI,mlb,philadelphia-pa,Philadelphia,,,PHI
+mlb_PIT,Pittsburgh PIT,mlb,pittsburgh-pa,Pittsburgh,,,PIT
+mlb_SDN,San Diego SDN,mlb,san-diego-ca,San Diego,,,SDN
+mlb_SEA,Seattle SEA,mlb,seattle-wa,Seattle,,,SEA
+mlb_SFN,San Francisco SFN,mlb,san-francisco-ca,San Francisco,,,SFN
+mlb_SLN,St. Louis SLN,mlb,st.-louis-mo,St. Louis,,,SLN
+mlb_TBA,St. Petersburg TBA,mlb,st.-petersburg-fl,St. Petersburg,,,TBA
+mlb_TEX,Arlington TEX,mlb,arlington-tx,Arlington,,,TEX
+mlb_TOR,Toronto TOR,mlb,toronto-on,Toronto,,,TOR
+mlb_WAS,Washington WAS,mlb,washington-dc,Washington,,,WAS
+nba_ATL,Atlanta Atlanta Hawks,nba,atlanta,Atlanta,,,1610612737
+nba_BOS,Boston Boston Celtics,nba,boston,Boston,,,1610612738
+nba_BKN,Brooklyn Brooklyn Nets,nba,brooklyn,Brooklyn,,,1610612751
+nba_CHA,Charlotte Charlotte Hornets,nba,charlotte,Charlotte,,,1610612766
+nba_CHI,Chicago Chicago Bulls,nba,chicago,Chicago,,,1610612741
+nba_CLE,Cleveland Cleveland Cavaliers,nba,cleveland,Cleveland,,,1610612739
+nba_DAL,Dallas Dallas Mavericks,nba,dallas,Dallas,,,1610612742
+nba_DEN,Denver Denver Nuggets,nba,denver,Denver,,,1610612743
+nba_DET,Detroit Detroit Pistons,nba,detroit,Detroit,,,1610612765
+nba_GSW,Golden State Golden State Warriors,nba,golden-state,Golden State,,,1610612744
+nba_HOU,Houston Houston Rockets,nba,houston,Houston,,,1610612745
+nba_IND,Indiana Indiana Pacers,nba,indiana,Indiana,,,1610612754
+nba_LAC,Los Angeles Los Angeles Clippers,nba,los-angeles,Los Angeles,,,1610612746
+nba_LAL,Los Angeles Los Angeles Lakers,nba,los-angeles,Los Angeles,,,1610612747
+nba_MEM,Memphis Memphis Grizzlies,nba,memphis,Memphis,,,1610612763
+nba_MIA,Miami Miami Heat,nba,miami,Miami,,,1610612748
+nba_MIL,Milwaukee Milwaukee Bucks,nba,milwaukee,Milwaukee,,,1610612749
+nba_MIN,Minnesota Minnesota Timberwolves,nba,minnesota,Minnesota,,,1610612750
+nba_NOP,New Orleans New Orleans Pelicans,nba,new-orleans,New Orleans,,,1610612740
+nba_NYK,New York New York Knicks,nba,new-york,New York,,,1610612752
+nba_OKC,Oklahoma City Oklahoma City Thunder,nba,oklahoma-city,Oklahoma City,,,1610612760
+nba_ORL,Orlando Orlando Magic,nba,orlando,Orlando,,,1610612753
+nba_PHI,Philadelphia Philadelphia 76ers,nba,philadelphia,Philadelphia,,,1610612755
+nba_PHX,Phoenix Phoenix Suns,nba,phoenix,Phoenix,,,1610612756
+nba_POR,Portland Portland Trail Blazers,nba,portland,Portland,,,1610612757
+nba_SAC,Sacramento Sacramento Kings,nba,sacramento,Sacramento,,,1610612758
+nba_SAS,San Antonio San Antonio Spurs,nba,san-antonio,San Antonio,,,1610612759
+nba_TOR,Toronto Toronto Raptors,nba,toronto,Toronto,,,1610612761
+nba_UTA,Utah Utah Jazz,nba,utah,Utah,,,1610612762
+nba_WAS,Washington Washington Wizards,nba,washington,Washington,,,1610612764
+nhl_tampa-bay-lightning,Tampa Bay Lightning,nhl,tampa-bay,Tampa Bay,,,Lightning
+nhl_dallas-stars,Dallas Stars,nhl,dallas,Dallas,,,Stars
+nhl_nashville-predators,Nashville Predators,nhl,nashville,Nashville,,,Predators
+nhl_edmonton-oilers,Edmonton Oilers,nhl,edmonton,Edmonton,,,Oilers
+nhl_new-jersey-devils,New Jersey Devils,nhl,new-jersey,New Jersey,,,Devils
+nhl_florida-panthers,Florida Panthers,nhl,florida,Florida,,,Panthers
+nhl_columbus-blue-jackets,Columbus Blue Jackets,nhl,columbus,Columbus,,,Blue Jackets
+nhl_los-angeles-kings,Los Angeles Kings,nhl,los-angeles,Los Angeles,,,Kings
+nhl_carolina-hurricanes,Carolina Hurricanes,nhl,carolina,Carolina,,,Hurricanes
+nhl_philadelphia-flyers,Philadelphia Flyers,nhl,philadelphia,Philadelphia,,,Flyers
+nhl_chicago-blackhawks,Chicago Blackhawks,nhl,chicago,Chicago,,,Blackhawks
+nhl_san-jose-sharks,San Jose Sharks,nhl,san-jose,San Jose,,,Sharks
+nhl_anaheim-ducks,Anaheim Ducks,nhl,anaheim,Anaheim,,,Ducks
+nhl_new-york-rangers,New York Rangers,nhl,new-york,New York,,,Rangers
+nhl_calgary-flames,Calgary Flames,nhl,calgary,Calgary,,,Flames
+nhl_minnesota-wild,Minnesota Wild,nhl,minnesota,Minnesota,,,Wild
+nhl_colorado-avalanche,Colorado Avalanche,nhl,colorado,Colorado,,,Avalanche
+nhl_buffalo-sabres,Buffalo Sabres,nhl,buffalo,Buffalo,,,Sabres
+nhl_montreal-canadiens,Montreal Canadiens,nhl,montreal,Montreal,,,Canadiens
+nhl_new-york-islanders,New York Islanders,nhl,new-york,New York,,,Islanders
+nhl_vancouver-canucks,Vancouver Canucks,nhl,vancouver,Vancouver,,,Canucks
+nhl_ottawa-senators,Ottawa Senators,nhl,ottawa,Ottawa,,,Senators
+nhl_vegas-golden-knights,Vegas Golden Knights,nhl,vegas,Vegas,,,Golden Knights
+nhl_detroit-red-wings,Detroit Red Wings,nhl,detroit,Detroit,,,Red Wings
+nhl_winnipeg-jets,Winnipeg Jets,nhl,winnipeg,Winnipeg,,,Jets
+nhl_arizona-coyotes,Arizona Coyotes,nhl,arizona,Arizona,,,Coyotes
+nhl_boston-bruins,Boston Bruins,nhl,boston,Boston,,,Bruins
+nhl_st-louis-blues,St. Louis Blues,nhl,st-louis,St. Louis,,,Blues
+nhl_pittsburgh-penguins,Pittsburgh Penguins,nhl,pittsburgh,Pittsburgh,,,Penguins
+nhl_toronto-maple-leafs,Toronto Maple Leafs,nhl,toronto,Toronto,,,Maple Leafs
+nhl_washington-capitals,Washington Capitals,nhl,washington,Washington,,,Capitals
+nhl_seattle-kraken,Seattle Kraken,nhl,seattle,Seattle,,,Kraken
+nhl_utah-hockey-club,Utah Hockey Club,nhl,utah-hockey,Utah Hockey,,,Club

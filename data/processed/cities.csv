@@ -1,0 +1,83 @@
+city_id,city_name,state,country,slug
+bos,Boston,MA,USA,boston
+la,Los Angeles,CA,USA,los-angeles
+nyc,New York,NY,USA,new-york
+anaheim-ca,Anaheim,CA,USA,anaheim-ca
+phoenix-az,Phoenix,AZ,USA,phoenix-az
+atlanta-ga,Atlanta,GA,USA,atlanta-ga
+baltimore-md,Baltimore,MD,USA,baltimore-md
+boston-ma,Boston,MA,USA,boston-ma
+chicago-il,Chicago,IL,USA,chicago-il
+cincinnati-oh,Cincinnati,OH,USA,cincinnati-oh
+cleveland-oh,Cleveland,OH,USA,cleveland-oh
+denver-co,Denver,CO,USA,denver-co
+detroit-mi,Detroit,MI,USA,detroit-mi
+houston-tx,Houston,TX,USA,houston-tx
+kansas-city-mo,Kansas City,MO,USA,kansas-city-mo
+los-angeles-ca,Los Angeles,CA,USA,los-angeles-ca
+miami-fl,Miami,FL,USA,miami-fl
+milwaukee-wi,Milwaukee,WI,USA,milwaukee-wi
+minneapolis-mn,Minneapolis,MN,USA,minneapolis-mn
+new-york-ny,New York,NY,USA,new-york-ny
+oakland-ca,Oakland,CA,USA,oakland-ca
+philadelphia-pa,Philadelphia,PA,USA,philadelphia-pa
+pittsburgh-pa,Pittsburgh,PA,USA,pittsburgh-pa
+san-diego-ca,San Diego,CA,USA,san-diego-ca
+seattle-wa,Seattle,WA,USA,seattle-wa
+san-francisco-ca,San Francisco,CA,USA,san-francisco-ca
+st.-louis-mo,St. Louis,MO,USA,st.-louis-mo
+st.-petersburg-fl,St. Petersburg,FL,USA,st.-petersburg-fl
+arlington-tx,Arlington,TX,USA,arlington-tx
+toronto-on,Toronto,ON,USA,toronto-on
+washington-dc,Washington,DC,USA,washington-dc
+atlanta,Atlanta,,USA,atlanta
+boston,Boston,,USA,boston
+brooklyn,Brooklyn,,USA,brooklyn
+charlotte,Charlotte,,USA,charlotte
+chicago,Chicago,,USA,chicago
+cleveland,Cleveland,,USA,cleveland
+dallas,Dallas,,USA,dallas
+denver,Denver,,USA,denver
+detroit,Detroit,,USA,detroit
+golden-state,Golden State,,USA,golden-state
+houston,Houston,,USA,houston
+indiana,Indiana,,USA,indiana
+los-angeles,Los Angeles,,USA,los-angeles
+memphis,Memphis,,USA,memphis
+miami,Miami,,USA,miami
+milwaukee,Milwaukee,,USA,milwaukee
+minnesota,Minnesota,,USA,minnesota
+new-orleans,New Orleans,,USA,new-orleans
+new-york,New York,,USA,new-york
+oklahoma-city,Oklahoma City,,USA,oklahoma-city
+orlando,Orlando,,USA,orlando
+philadelphia,Philadelphia,,USA,philadelphia
+phoenix,Phoenix,,USA,phoenix
+portland,Portland,,USA,portland
+sacramento,Sacramento,,USA,sacramento
+san-antonio,San Antonio,,USA,san-antonio
+toronto,Toronto,,USA,toronto
+utah,Utah,,USA,utah
+washington,Washington,,USA,washington
+tampa-bay,Tampa Bay,,USA,tampa-bay
+nashville,Nashville,,USA,nashville
+edmonton,Edmonton,,USA,edmonton
+new-jersey,New Jersey,,USA,new-jersey
+florida,Florida,,USA,florida
+columbus,Columbus,,USA,columbus
+carolina,Carolina,,USA,carolina
+san-jose,San Jose,,USA,san-jose
+anaheim,Anaheim,,USA,anaheim
+calgary,Calgary,,USA,calgary
+colorado,Colorado,,USA,colorado
+buffalo,Buffalo,,USA,buffalo
+montreal,Montreal,,USA,montreal
+vancouver,Vancouver,,USA,vancouver
+ottawa,Ottawa,,USA,ottawa
+vegas,Vegas,,USA,vegas
+winnipeg,Winnipeg,,USA,winnipeg
+arizona,Arizona,,USA,arizona
+st-louis,St. Louis,,USA,st-louis
+pittsburgh,Pittsburgh,,USA,pittsburgh
+seattle,Seattle,,USA,seattle
+utah-hockey,Utah Hockey,,USA,utah-hockey

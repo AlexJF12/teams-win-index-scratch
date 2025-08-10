@@ -1,0 +1,30 @@
+[
+  {
+    "city": "Washington DC",
+    "mlb": "WAS",
+    "nba": "WAS",
+    "nhl": "tbd",
+    "nfl": "tbd"
+  },
+  {
+    "city": "New York City",
+    "mlb": "NYN",
+    "nba": "NYK",
+    "nhl": "NYR",
+    "nfl": "NYG"
+  },
+  {
+    "city": "Los Angeles",
+    "mlb": "LAL",
+    "nba": "LAL",
+    "nhl": "tbd",
+    "nfl": "tbd"
+  },
+  {
+    "city": "Chicago",
+    "mlb": "CHN",
+    "nba": "CHI",
+    "nhl": "tbd",
+    "nfl": "tbd"
+  }
+]

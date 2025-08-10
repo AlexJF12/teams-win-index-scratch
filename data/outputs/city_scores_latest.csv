@@ -1,0 +1,3 @@
+date,city_id,city_name,score,wins,losses,playoff_wins,playoff_losses
+2025-08-06,bos,Boston,1,1,0,0,0
+2025-08-06,nyc,New York,-1,0,1,0,0

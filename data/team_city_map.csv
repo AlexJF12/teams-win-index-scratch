@@ -1,0 +1,133 @@
+league,team,city
+mlb,ANA,Anaheim
+mlb,ARI,Phoenix
+mlb,ATL,Atlanta
+mlb,BAL,Baltimore
+mlb,BOS,Boston
+mlb,CHA,Chicago
+mlb,CHN,Chicago
+mlb,CIN,Cincinnati
+mlb,CLE,Cleveland
+mlb,COL,Denver
+mlb,DET,Detroit
+mlb,HOU,Houston
+mlb,KCA,Kansas City
+mlb,LAN,Los Angeles
+mlb,MIA,Miami
+mlb,MIL,Milwaukee
+mlb,MIN,Minneapolis
+mlb,NYA,New York
+mlb,NYN,New York
+mlb,OAK,Oakland
+mlb,PHI,Philadelphia
+mlb,PIT,Pittsburgh
+mlb,SDN,San Diego
+mlb,SEA,Seattle
+mlb,SFN,San Francisco
+mlb,SLN,St. Louis
+mlb,TBA,St. Petersburg
+mlb,TEX,Arlington
+mlb,TOR,Toronto
+mlb,WAS,Washington
+nba,ATL,Atlanta
+nba,BKN,Brooklyn
+nba,BOS,Boston
+nba,CHA,Charlotte
+nba,CHI,Chicago
+nba,CLE,Cleveland
+nba,DAL,Dallas
+nba,DEN,Denver
+nba,DET,Detroit
+nba,GSW,Golden State
+nba,HOU,Houston
+nba,IND,Indiana
+nba,LAC,Los Angeles
+nba,LAL,Los Angeles
+nba,MEM,Memphis
+nba,MIA,Miami
+nba,MIL,Milwaukee
+nba,MIN,Minnesota
+nba,NJN,NJN
+nba,NOH,NOH
+nba,NOP,New Orleans
+nba,NYK,New York
+nba,OKC,Oklahoma City
+nba,ORL,Orlando
+nba,PHI,Philadelphia
+nba,PHX,Phoenix
+nba,POR,Portland
+nba,SAC,Sacramento
+nba,SAS,San Antonio
+nba,TOR,Toronto
+nba,UTA,Utah
+nba,WAS,Washington
+nfl,Arizona Cardinals,Arizona
+nfl,Atlanta Falcons,Atlanta
+nfl,Baltimore Ravens,Baltimore
+nfl,Buffalo Bills,Buffalo
+nfl,Carolina Panthers,Carolina
+nfl,Chicago Bears,Chicago
+nfl,Cincinnati Bengals,Cincinnati
+nfl,Cleveland Browns,Cleveland
+nfl,Dallas Cowboys,Dallas
+nfl,Denver Broncos,Denver
+nfl,Detroit Lions,Detroit
+nfl,Green Bay Packers,Green Bay
+nfl,Houston Texans,Houston
+nfl,Indianapolis Colts,Indianapolis
+nfl,Jacksonville Jaguars,Jacksonville
+nfl,Kansas City Chiefs,Kansas City
+nfl,Las Vegas Raiders,Las Vegas
+nfl,Los Angeles Chargers,Los Angeles
+nfl,Los Angeles Rams,Los Angeles
+nfl,Miami Dolphins,Miami
+nfl,Minnesota Vikings,Minnesota
+nfl,New England Patriots,New England
+nfl,New Orleans Saints,New Orleans
+nfl,New York Giants,New York
+nfl,New York Jets,New York
+nfl,Oakland Raiders,Oakland
+nfl,Philadelphia Eagles,Philadelphia
+nfl,Pittsburgh Steelers,Pittsburgh
+nfl,San Diego Chargers,San Diego
+nfl,San Francisco 49ers,San Francisco
+nfl,Seattle Seahawks,Seattle
+nfl,St. Louis Rams,St. Louis
+nfl,Tampa Bay Buccaneers,Tampa Bay
+nfl,Tennessee Titans,Tennessee
+nfl,Washington Commanders,Washington
+nfl,Washington Football Team,Washington
+nfl,Washington Redskins,Washington
+nhl,Anaheim Ducks,Anaheim
+nhl,Arizona Coyotes,Arizona
+nhl,Boston Bruins,Boston
+nhl,Buffalo Sabres,Buffalo
+nhl,Calgary Flames,Calgary
+nhl,Carolina Hurricanes,Carolina
+nhl,Chicago Blackhawks,Chicago
+nhl,Colorado Avalanche,Colorado
+nhl,Columbus Blue Jackets,Columbus
+nhl,Dallas Stars,Dallas
+nhl,Detroit Red Wings,Detroit
+nhl,Edmonton Oilers,Edmonton
+nhl,Florida Panthers,Florida
+nhl,Los Angeles Kings,Los Angeles
+nhl,Minnesota Wild,Minnesota
+nhl,Montreal Canadiens,Montreal
+nhl,Nashville Predators,Nashville
+nhl,New Jersey Devils,New Jersey
+nhl,New York Islanders,New York
+nhl,New York Rangers,New York
+nhl,Ottawa Senators,Ottawa
+nhl,Philadelphia Flyers,Philadelphia
+nhl,Pittsburgh Penguins,Pittsburgh
+nhl,San Jose Sharks,San Jose
+nhl,Seattle Kraken,Seattle
+nhl,St. Louis Blues,St. Louis
+nhl,Tampa Bay Lightning,Tampa Bay
+nhl,Toronto Maple Leafs,Toronto
+nhl,Utah Hockey Club,Utah Hockey
+nhl,Vancouver Canucks,Vancouver
+nhl,Vegas Golden Knights,Vegas
+nhl,Washington Capitals,Washington
+nhl,Winnipeg Jets,Winnipeg

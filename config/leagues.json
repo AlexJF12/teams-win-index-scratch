@@ -1,0 +1,8 @@
+{
+  "leagues": [
+    { "code": "nba", "name": "NBA" },
+    { "code": "nfl", "name": "NFL" },
+    { "code": "mlb", "name": "MLB" },
+    { "code": "nhl", "name": "NHL" }
+  ]
+} 
